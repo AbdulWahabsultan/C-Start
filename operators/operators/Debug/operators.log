@@ -1,0 +1,4 @@
+﻿  operators.cpp
+D:\beging c++\operators\operators\operators.cpp(4,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\beging c++\operators\operators\operators.cpp(4,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  operators.vcxproj -> D:\beging c++\operators\Debug\operators.exe
